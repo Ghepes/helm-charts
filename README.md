@@ -35,7 +35,7 @@ The MongoDB Helm repository can be added using the `helm repo add` command, like
 in the following example:
 
 ```
-$ helm repo add mongodb https://mongodb.github.io/helm-charts
+$ helm repo add mongodb https://github.com/Ghepes/helm-charts
 "mongodb" has been added to your repositories
 ```
 
